@@ -1,4 +1,4 @@
-"{
+{
   ""@context"": ""http://iiif.io/api/presentation/3/context.json"",
   ""id"": ""https://jouw-domein.nl/manifest/recfKJ3JcYATq4W1a"",
   ""type"": ""Manifest"",
@@ -596,4 +596,4 @@
       }]
     }]
   }]
-}"
+}
