@@ -1,0 +1,995 @@
+"{
+  ""@context"": ""http://iiif.io/api/presentation/3/context.json"",
+  ""id"": ""https://jouw-domein.nl/manifest/recgCje2rs00xh52G"",
+  ""type"": ""Manifest"",
+  ""label"": { ""none"": [""Akraneshreppur - Innri-""] },
+  ""items"": [  {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recJb7zJLGQBHmqQX"",
+    ""type"": ""Canvas"",
+    ""width"": 2423,
+    ""height"": 1794,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recJb7zJLGQBHmqQX"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recJb7zJLGQBHmqQX"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recJb7zJLGQBHmqQX"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00001.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recw5VI41KFETkHd2"",
+    ""type"": ""Canvas"",
+    ""width"": 1307,
+    ""height"": 1783,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recw5VI41KFETkHd2"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recw5VI41KFETkHd2"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recw5VI41KFETkHd2"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00003.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/reczKXvAi7AU055BC"",
+    ""type"": ""Canvas"",
+    ""width"": 2430,
+    ""height"": 1788,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/reczKXvAi7AU055BC"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/reczKXvAi7AU055BC"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/reczKXvAi7AU055BC"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00005.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recmaeSkGzTPrUNDf"",
+    ""type"": ""Canvas"",
+    ""width"": 2407,
+    ""height"": 1773,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recmaeSkGzTPrUNDf"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recmaeSkGzTPrUNDf"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recmaeSkGzTPrUNDf"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00007.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recfxXPtJXloXLTBq"",
+    ""type"": ""Canvas"",
+    ""width"": 1309,
+    ""height"": 1786,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recfxXPtJXloXLTBq"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recfxXPtJXloXLTBq"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recfxXPtJXloXLTBq"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00009.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recwBaJ3phphv49Wt"",
+    ""type"": ""Canvas"",
+    ""width"": 2429,
+    ""height"": 1782,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recwBaJ3phphv49Wt"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recwBaJ3phphv49Wt"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recwBaJ3phphv49Wt"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00011.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recSmZVYAB6UxNuwB"",
+    ""type"": ""Canvas"",
+    ""width"": 2422,
+    ""height"": 1785,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recSmZVYAB6UxNuwB"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recSmZVYAB6UxNuwB"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recSmZVYAB6UxNuwB"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00013.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recLigIspjkfhewgz"",
+    ""type"": ""Canvas"",
+    ""width"": 1288,
+    ""height"": 1769,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recLigIspjkfhewgz"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recLigIspjkfhewgz"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recLigIspjkfhewgz"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00015.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recqVPIdYjON4bxzA"",
+    ""type"": ""Canvas"",
+    ""width"": 1320,
+    ""height"": 1786,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recqVPIdYjON4bxzA"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recqVPIdYjON4bxzA"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recqVPIdYjON4bxzA"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00017.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/reczy4pzYZU6migwZ"",
+    ""type"": ""Canvas"",
+    ""width"": 2425,
+    ""height"": 1775,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/reczy4pzYZU6migwZ"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/reczy4pzYZU6migwZ"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/reczy4pzYZU6migwZ"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00019.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recLKyw4fdyfS8063"",
+    ""type"": ""Canvas"",
+    ""width"": 1309,
+    ""height"": 1777,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recLKyw4fdyfS8063"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recLKyw4fdyfS8063"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recLKyw4fdyfS8063"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00021.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recloxfoZnWbgBiIB"",
+    ""type"": ""Canvas"",
+    ""width"": 1312,
+    ""height"": 1783,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recloxfoZnWbgBiIB"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recloxfoZnWbgBiIB"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recloxfoZnWbgBiIB"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00023.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recHalr0WktvVO8lO"",
+    ""type"": ""Canvas"",
+    ""width"": 2425,
+    ""height"": 1765,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recHalr0WktvVO8lO"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recHalr0WktvVO8lO"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recHalr0WktvVO8lO"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00025.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recEIUGK1Wiz58Nus"",
+    ""type"": ""Canvas"",
+    ""width"": 1274,
+    ""height"": 1756,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recEIUGK1Wiz58Nus"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recEIUGK1Wiz58Nus"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recEIUGK1Wiz58Nus"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00027.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recEMdEq2bh6EHnlx"",
+    ""type"": ""Canvas"",
+    ""width"": 2424,
+    ""height"": 1763,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recEMdEq2bh6EHnlx"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recEMdEq2bh6EHnlx"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recEMdEq2bh6EHnlx"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00029.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recX7HfnYT3SK31QX"",
+    ""type"": ""Canvas"",
+    ""width"": 2423,
+    ""height"": 1775,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recX7HfnYT3SK31QX"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recX7HfnYT3SK31QX"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recX7HfnYT3SK31QX"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00031.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/reczbecu835SPryy0"",
+    ""type"": ""Canvas"",
+    ""width"": 2428,
+    ""height"": 1780,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/reczbecu835SPryy0"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/reczbecu835SPryy0"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/reczbecu835SPryy0"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00033.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recqtQy9OjtpjjUwq"",
+    ""type"": ""Canvas"",
+    ""width"": 1309,
+    ""height"": 1777,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recqtQy9OjtpjjUwq"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recqtQy9OjtpjjUwq"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recqtQy9OjtpjjUwq"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00035.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recopyW9NUFJ6X8Kd"",
+    ""type"": ""Canvas"",
+    ""width"": 1285,
+    ""height"": 1762,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recopyW9NUFJ6X8Kd"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recopyW9NUFJ6X8Kd"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recopyW9NUFJ6X8Kd"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00037.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recgfrVraeWaqnDLg"",
+    ""type"": ""Canvas"",
+    ""width"": 1309,
+    ""height"": 1780,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recgfrVraeWaqnDLg"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recgfrVraeWaqnDLg"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recgfrVraeWaqnDLg"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00039.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recZndKVId9oXgRMW"",
+    ""type"": ""Canvas"",
+    ""width"": 1287,
+    ""height"": 1763,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recZndKVId9oXgRMW"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recZndKVId9oXgRMW"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recZndKVId9oXgRMW"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00041.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recC7otmsHJkaDzit"",
+    ""type"": ""Canvas"",
+    ""width"": 1292,
+    ""height"": 1763,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recC7otmsHJkaDzit"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recC7otmsHJkaDzit"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recC7otmsHJkaDzit"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00043.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recCfMCJiiPQPDV6o"",
+    ""type"": ""Canvas"",
+    ""width"": 2396,
+    ""height"": 1759,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recCfMCJiiPQPDV6o"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recCfMCJiiPQPDV6o"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recCfMCJiiPQPDV6o"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00045.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recHLDzlsCtfNGdCc"",
+    ""type"": ""Canvas"",
+    ""width"": 1316,
+    ""height"": 1781,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recHLDzlsCtfNGdCc"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recHLDzlsCtfNGdCc"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recHLDzlsCtfNGdCc"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00047.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recA7ZOBsjWeRtzaX"",
+    ""type"": ""Canvas"",
+    ""width"": 2410,
+    ""height"": 1770,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recA7ZOBsjWeRtzaX"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recA7ZOBsjWeRtzaX"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recA7ZOBsjWeRtzaX"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00049.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recfDIBnbxkGHDI3j"",
+    ""type"": ""Canvas"",
+    ""width"": 2411,
+    ""height"": 1771,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recfDIBnbxkGHDI3j"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recfDIBnbxkGHDI3j"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recfDIBnbxkGHDI3j"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00051.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recH21LKaAvThLmrJ"",
+    ""type"": ""Canvas"",
+    ""width"": 1291,
+    ""height"": 1765,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recH21LKaAvThLmrJ"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recH21LKaAvThLmrJ"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recH21LKaAvThLmrJ"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00053.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recMDs7ZUHz5GRHDp"",
+    ""type"": ""Canvas"",
+    ""width"": 2419,
+    ""height"": 1768,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recMDs7ZUHz5GRHDp"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recMDs7ZUHz5GRHDp"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recMDs7ZUHz5GRHDp"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00055.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recbIwn87ASj6MwW9"",
+    ""type"": ""Canvas"",
+    ""width"": 2402,
+    ""height"": 1764,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recbIwn87ASj6MwW9"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recbIwn87ASj6MwW9"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recbIwn87ASj6MwW9"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00057.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recfzMUFbVVr8N4ts"",
+    ""type"": ""Canvas"",
+    ""width"": 2386,
+    ""height"": 1768,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recfzMUFbVVr8N4ts"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recfzMUFbVVr8N4ts"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recfzMUFbVVr8N4ts"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00059.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recNDk6lY3vlhegFf"",
+    ""type"": ""Canvas"",
+    ""width"": 2399,
+    ""height"": 1766,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recNDk6lY3vlhegFf"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recNDk6lY3vlhegFf"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recNDk6lY3vlhegFf"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00061.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recYtUax15MQcoKBG"",
+    ""type"": ""Canvas"",
+    ""width"": 2392,
+    ""height"": 1763,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recYtUax15MQcoKBG"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recYtUax15MQcoKBG"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recYtUax15MQcoKBG"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00063.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recTT7LpHCMSPxAxr"",
+    ""type"": ""Canvas"",
+    ""width"": 2404,
+    ""height"": 1767,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recTT7LpHCMSPxAxr"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recTT7LpHCMSPxAxr"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recTT7LpHCMSPxAxr"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00065.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recFnGGrF76yrREn7"",
+    ""type"": ""Canvas"",
+    ""width"": 2393,
+    ""height"": 1761,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recFnGGrF76yrREn7"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recFnGGrF76yrREn7"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recFnGGrF76yrREn7"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00067.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/reczUOo5P9dJ3n4Dr"",
+    ""type"": ""Canvas"",
+    ""width"": 1289,
+    ""height"": 1761,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/reczUOo5P9dJ3n4Dr"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/reczUOo5P9dJ3n4Dr"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/reczUOo5P9dJ3n4Dr"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00069.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recZNfmE1KxJmGMW4"",
+    ""type"": ""Canvas"",
+    ""width"": 2390,
+    ""height"": 1758,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recZNfmE1KxJmGMW4"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recZNfmE1KxJmGMW4"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recZNfmE1KxJmGMW4"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00071.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recS4CampZxvfI3BD"",
+    ""type"": ""Canvas"",
+    ""width"": 2409,
+    ""height"": 1768,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recS4CampZxvfI3BD"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recS4CampZxvfI3BD"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recS4CampZxvfI3BD"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00073.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recpMC6YEMVEdCf0J"",
+    ""type"": ""Canvas"",
+    ""width"": 2394,
+    ""height"": 1760,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recpMC6YEMVEdCf0J"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recpMC6YEMVEdCf0J"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recpMC6YEMVEdCf0J"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00075.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recAdalBGBAUgQidU"",
+    ""type"": ""Canvas"",
+    ""width"": 1273,
+    ""height"": 1746,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recAdalBGBAUgQidU"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recAdalBGBAUgQidU"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recAdalBGBAUgQidU"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00077.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recCVHFiDVYm5YwIr"",
+    ""type"": ""Canvas"",
+    ""width"": 2396,
+    ""height"": 1764,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recCVHFiDVYm5YwIr"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recCVHFiDVYm5YwIr"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recCVHFiDVYm5YwIr"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00079.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recXlxWTHxiMd6C3T"",
+    ""type"": ""Canvas"",
+    ""width"": 1295,
+    ""height"": 1762,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recXlxWTHxiMd6C3T"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recXlxWTHxiMd6C3T"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recXlxWTHxiMd6C3T"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00081.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recNtrXbeg7rusKn4"",
+    ""type"": ""Canvas"",
+    ""width"": 1306,
+    ""height"": 1772,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recNtrXbeg7rusKn4"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recNtrXbeg7rusKn4"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recNtrXbeg7rusKn4"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00083.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/reckJBkTKPmlZg9dF"",
+    ""type"": ""Canvas"",
+    ""width"": 1301,
+    ""height"": 1767,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/reckJBkTKPmlZg9dF"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/reckJBkTKPmlZg9dF"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/reckJBkTKPmlZg9dF"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00085.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/rec1CfpRTGf3aOiJ8"",
+    ""type"": ""Canvas"",
+    ""width"": 1530,
+    ""height"": 2109,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/rec1CfpRTGf3aOiJ8"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/rec1CfpRTGf3aOiJ8"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/rec1CfpRTGf3aOiJ8"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00087.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  },
+
+   {
+    ""id"": ""https://iiif.hisgis.nl/iiif/canvas/recMOyGhUUjy1rM2Z"",
+    ""type"": ""Canvas"",
+    ""width"": 1760,
+    ""height"": 2199,
+    ""items"": [{
+      ""id"": ""https://iiif.hisgis.nl/iiif/anno/recMOyGhUUjy1rM2Z"",
+      ""type"": ""AnnotationPage"",
+      ""items"": [{
+        ""id"": ""https://iiif.hisgis.nl/iiif/anno-body/recMOyGhUUjy1rM2Z"",
+        ""type"": ""Annotation"",
+        ""motivation"": ""painting"",
+        ""target"": ""https://iiif.hisgis.nl/iiif/canvas/recMOyGhUUjy1rM2Z"",
+        ""body"": {
+          ""id"": ""https://iiif.hisgis.nl/iiif/3/IJsland%2FBorgarfjardarsysla%2FAkraneshreppur - Innri-%2FAkraneshreppur-Innri_00089.jpg"",
+          ""type"": ""ImageService3"",
+          ""profile"": ""level0""
+        }
+      }]
+    }]
+  }]
+}"
